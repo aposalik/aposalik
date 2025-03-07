@@ -1,4 +1,4 @@
-[![MasterHead](https://www.horizont.com.hr/posao/backend-developer.gif)](https://aposalik.io)
+[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://aposalik.io)
 
 <h1 align="center">Hi 👋, I'm Abdullah Salik</h1>
 <h3 align="center">A passionate Web Developer from Afghanistan</h3>
