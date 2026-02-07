@@ -31,10 +31,13 @@
 
 # My GitHub Stats
 
-| Top Languages | Profile Stats |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aposalik&show_icons=true&locale=en&layout=compact" alt="Top Langs" width="350" /> | <img src="https://github-readme-stats.vercel.app/api?username=aposalik&show_icons=true&locale=en" alt="User Stats" width="400" /> |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aposalik&show_icons=true&locale=en&layout=compact&v=1" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aposalik&show_icons=true&locale=en&v=1" alt="User Stats" width="45%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aposalik" alt="GitHub Streak" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aposalik&theme=dark&v=1" alt="GitHub Streak" />
+</div>
