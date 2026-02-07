@@ -1,15 +1,15 @@
 [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://aposalik.io)
 
 <h1 align="center">Hi 👋, I'm Abdullah Salik</h1>
-<h3 align="center">A passionate Web Developer from Afghanistan</h3>
+<h3 align="center">A passionate Junior software engineer | Fırat Üniversitesi </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aposalik&label=Profile%20views&color=0e75b6&style=flat" alt="aposalik" /> </p>
 
-- 🌱 I’m currently learning **Node.js and frameworks**
+- 🌱 I’m currently learning **Backend and Cloud**
 
-- 💬 Ask me about **JS, Node ...**
+- 💬 Ask me about **C,C++,Java,JS, Node ...**
 
 - 📫 How to reach me **qadri8846@gmail.com**
 
