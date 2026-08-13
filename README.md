@@ -1,7 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://aposalik.io)
-
 <h1 align="center">Hi 👋, I'm Abdullah Salik</h1>
-<h3 align="center">A passionate Junior software engineer | Fırat Üniversitesi </h3>
+<h3 align="center">A Passionate Junior Software Engineer | Fırat Üniversitesi </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
 
 
